@@ -1,0 +1,36 @@
+.Continer{
+    width: 100%;
+    display: block;
+
+}
+.Element{
+    margin: 1rem 0;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.Login{
+    width: 100%;
+    color: #000000;
+    text-align: center;
+    font-family: 'Noto Serif', sans-serif;
+    /* margin:10px 30rem; */
+}
+.Tab{
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 9px 7px 5px #cdc9c3;
+    width: 100%;
+    margin: auto 10rem;
+}
+.Error{
+    border:1px solid red;
+    background:salmon;
+    color:white;
+    padding: 16px;
+    opacity: .8;
+    border-radius: 8px ;
+    margin: 0;
+    font-size: 1.3rem;
+    text-align: center;
+}

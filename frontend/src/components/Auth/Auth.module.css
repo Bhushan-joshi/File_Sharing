@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&display=swap');
+
+.Tab{
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 9px 7px 5px #cdc9c3;
+    width: 100%;
+    margin: 0 10rem;
+}
+.Tab p{
+    width: 100% ;
+    text-align: center;
+}
+.Continer{   
+    display: block;
+}
+.Element{
+    margin: 1rem 0;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.Login{
+    width: 100%;
+    color: #1d1d1d;
+    text-align: center;
+    font-family: 'Noto Serif', sans-serif;
+    margin-top: 1rem;
+}
+
+.Method{
+    display: flex;
+    position: relative;
+    top: 0;
+}
+.Error{
+    border:1px solid red;
+background:salmon;
+color:white;
+    padding: 16px;
+    opacity: .8;
+    border-radius: 8px ;
+    margin: 0;
+    font-size: 1.3rem;
+}

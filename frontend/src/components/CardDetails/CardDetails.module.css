@@ -1,0 +1,24 @@
+.Data{
+    width: 100%;
+    display: flex;
+    flex-basis: 100%;
+    margin: auto 32px;
+    padding: 26px ;
+    justify-content: center;    
+    border: 2px solid #969696 ;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+h2{
+    margin: 0 auto;
+    font-family: 'Noto Serif', sans-serif;
+    width: 100%;
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+}
+.Din{
+    width: 85%;
+    display: flex;
+    margin: auto 32px;
+}

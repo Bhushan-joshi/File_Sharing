@@ -1,0 +1,9 @@
+.Paper{
+    width: 100%;
+    padding: 10px 20px;
+    margin: 10px;
+}
+.Icon{
+    position: absolute;
+    right: 10rem;
+}

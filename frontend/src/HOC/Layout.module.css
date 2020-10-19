@@ -1,0 +1,28 @@
+.main_section{
+    margin: 6rem 0 3.4rem 0 ;
+    padding: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer{
+    bottom: 0;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #3a4750;
+    margin:0;
+    padding: 7px;
+    display: flex;
+    color: white;
+    z-index: -1;
+    opacity: .5;
+}
+.footer p{
+    display: inline;
+    align-self: center;
+    margin: 0 0 0 40%;
+}
+.footer div{
+    display: inline;
+    margin: 19px;
+}
